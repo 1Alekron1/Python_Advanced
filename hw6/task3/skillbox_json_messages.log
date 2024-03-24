@@ -1,0 +1,5 @@
+
+{"time": "2024-03-24 21:30:18,408", "level": "INFO", "message": "Hello, world!"}
+{"time": "2024-03-24 21:30:18,408", "level": "WARNING", "message": "{\"key\": \"value\"}"}
+{"time": "2024-03-24 21:31:22,977", "level": "INFO", "message": "Hello, world!"}
+{"time": "2024-03-24 21:31:22,978", "level": "WARNING", "message": "{\"key\": \"value\"}\n"}

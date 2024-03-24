@@ -1,0 +1,6 @@
+21:06:57 This is an INFO message
+21:06:57 This is a WARNING message
+21:07:01 This is an INFO message
+21:07:01 This is a WARNING message
+21:07:06 This is an INFO message
+21:07:06 This is a WARNING message
